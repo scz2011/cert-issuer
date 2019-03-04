@@ -55,7 +55,7 @@ setup(
     install_requires=reqs,
     name='cert-issuer',
     version=__version__,
-    url='https://github.com/blockchain-certificates/cert-issuer',
+    url='https://github.com/scz2011/cert-issuer',
     license='MIT',
     author='Blockcerts',
     author_email='info@blockcerts.org',
